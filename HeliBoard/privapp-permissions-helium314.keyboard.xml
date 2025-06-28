@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="helium314.keyboard">
+        <permission name="android.permission.READ_USER_DICTIONARY" />
+        <permission name="android.permission.WRITE_USER_DICTIONARY" />
+        <permission name="android.permission.READ_CONTACTS" />
+    </privapp-permissions>
+</permissions>
